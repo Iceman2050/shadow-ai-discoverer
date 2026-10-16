@@ -1,0 +1,12 @@
+# Fixture: domains observed in DNS logs / hosts exports.
+# Blank lines and #-comments are ignored. Duplicates are de-duplicated.
+www.google.com
+mail.internal.example
+chat.openai.com
+api.openai.com
+intranet.example
+api.anthropic.com
+files.corp.example
+perplexity.ai
+huggingface.co
+cdn.static.example
